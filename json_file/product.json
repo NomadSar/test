@@ -1,0 +1,214 @@
+{
+    "products": [
+        {
+            "category": "Vegetables",
+            "name": "Potato",
+            "price": 0.5,
+            "total_weight": 200.0,
+            "weight": 0.20000000298023224
+        },
+        {
+            "category": "Fruits",
+            "name": "Banana",
+            "price": 0.6000000238418579,
+            "total_weight": 150.0,
+            "weight": 0.6000000238418579
+        },
+        {
+            "category": "Vegetables",
+            "name": "Carrot",
+            "price": 0.6000000238418579,
+            "total_weight": 100.0,
+            "weight": 0.10000000149011612
+        },
+        {
+            "category": "Vegetables",
+            "name": "Tomato",
+            "price": 0.800000011920929,
+            "total_weight": 150.0,
+            "weight": 0.20000000298023224
+        },
+        {
+            "category": "Grains",
+            "name": "Oats",
+            "price": 1.0,
+            "total_weight": 300.0,
+            "weight": 0.800000011920929
+        },
+        {
+            "category": "Spices",
+            "name": "Salt",
+            "price": 1.0,
+            "total_weight": 1000.0,
+            "weight": 1.0
+        },
+        {
+            "category": "Fruits",
+            "name": "Orange",
+            "price": 1.2000000476837158,
+            "total_weight": 250.0,
+            "weight": 0.30000001192092896
+        },
+        {
+            "category": "Grains",
+            "name": "Pasta",
+            "price": 1.2000000476837158,
+            "total_weight": 400.0,
+            "weight": 0.5
+        },
+        {
+            "category": "Spices",
+            "name": "Sugar",
+            "price": 1.2000000476837158,
+            "total_weight": 800.0,
+            "weight": 1.0
+        },
+        {
+            "category": "Fruits",
+            "name": "Apple",
+            "price": 1.5,
+            "total_weight": 5.0,
+            "weight": 0.20000000298023224
+        },
+        {
+            "category": "Canned Goods",
+            "name": "Canned Beans",
+            "price": 1.5,
+            "total_weight": 250.0,
+            "weight": 0.4000000059604645
+        },
+        {
+            "category": "Spices",
+            "name": "Pepper",
+            "price": 1.5,
+            "total_weight": 500.0,
+            "weight": 0.5
+        },
+        {
+            "category": "Grains",
+            "name": "Rice",
+            "price": 1.5,
+            "total_weight": 500.0,
+            "weight": 1.0
+        },
+        {
+            "category": "Canned Goods",
+            "name": "Canned Tomatoes",
+            "price": 2.0,
+            "total_weight": 300.0,
+            "weight": 0.5
+        },
+        {
+            "category": "Dairy",
+            "name": "Yogurt",
+            "price": 2.0,
+            "total_weight": 200.0,
+            "weight": 0.20000000298023224
+        },
+        {
+            "category": "Bakery",
+            "name": "Bread",
+            "price": 2.5,
+            "total_weight": 400.0,
+            "weight": 0.4000000059604645
+        },
+        {
+            "category": "Sweets",
+            "name": "Candy",
+            "price": 2.5,
+            "total_weight": 30.0,
+            "weight": 0.10000000149011612
+        },
+        {
+            "category": "Canned Goods",
+            "name": "Canned Tuna",
+            "price": 3.0,
+            "total_weight": 200.0,
+            "weight": 0.30000001192092896
+        },
+        {
+            "category": "Drinks",
+            "name": "Juice",
+            "price": 3.0,
+            "total_weight": 150.0,
+            "weight": 1.0
+        },
+        {
+            "category": "Dairy",
+            "name": "Milk",
+            "price": 3.0,
+            "total_weight": 500.0,
+            "weight": 1.0
+        },
+        {
+            "category": "Sweets",
+            "name": "Chocolate",
+            "price": 3.5,
+            "total_weight": 50.0,
+            "weight": 0.20000000298023224
+        },
+        {
+            "category": "Meat",
+            "name": "Chicken",
+            "price": 4.0,
+            "total_weight": 150.0,
+            "weight": 0.800000011920929
+        },
+        {
+            "category": "Bakery",
+            "name": "Cookies",
+            "price": 4.0,
+            "total_weight": 300.0,
+            "weight": 0.30000001192092896
+        },
+        {
+            "category": "Sweets",
+            "name": "Ice Cream",
+            "price": 4.0,
+            "total_weight": 40.0,
+            "weight": 0.30000001192092896
+        },
+        {
+            "category": "Drinks",
+            "name": "Tea",
+            "price": 4.0,
+            "total_weight": 80.0,
+            "weight": 0.30000001192092896
+        },
+        {
+            "category": "Dairy",
+            "name": "Cheese",
+            "price": 5.0,
+            "total_weight": 250.0,
+            "weight": 0.5
+        },
+        {
+            "category": "Meat",
+            "name": "Pork",
+            "price": 5.0,
+            "total_weight": 180.0,
+            "weight": 0.800000011920929
+        },
+        {
+            "category": "Drinks",
+            "name": "Coffee",
+            "price": 6.0,
+            "total_weight": 100.0,
+            "weight": 0.5
+        },
+        {
+            "category": "Meat",
+            "name": "Beef",
+            "price": 7.0,
+            "total_weight": 200.0,
+            "weight": 1.0
+        },
+        {
+            "category": "Bakery",
+            "name": "Cake",
+            "price": 10.0,
+            "total_weight": 100.0,
+            "weight": 1.0
+        }
+    ]
+}
